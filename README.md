@@ -8,6 +8,15 @@
 5. HAML
 6. Bootstrap
 
+
+###Gem
+gem 'devise', '~> 3.4.1'
+gem 'paperclip', '~> 4.2.1'
+gem 'bootstrap-sass', '~> 3.2.0.2'
+gem 'searchkick', '~> 0.8.5'
+
+
+
 ###Github Repo
 https://github.com/mackenziechild/movie_review
 
